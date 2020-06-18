@@ -1,0 +1,11 @@
+
+tpython:S4487"URemove this unread private attribute '__items' or refactor the code to use its value.(´¶Õ8µİ·¾ª.
+xpython:S4487"TRemove this unread private attribute '__name' or refactor the code to use its value.(ÍÔâøÿÿÿÿ8ªó´¾ª.
+zpython:S4487	"VRemove this unread private attribute '__max_hp' or refactor the code to use its value.(âÃòšıÿÿÿÿ8±—Æ¾ª.
+ipython:S107"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(´ÜèÍ8¢ÌË—ª.
+vpython:S4487"WRemove this unread private attribute '__actions' or refactor the code to use its value.(ä²˜û8ãÅ·¾ª.
+wpython:S4487"XRemove this unread private attribute '__atk_high' or refactor the code to use its value.(—ÿÄÇ8ªé¶¾ª.
+vpython:S4487"RRemove this unread private attribute '__df' or refactor the code to use its value.(Òş¢âÿÿÿÿÿ8•·¾ª.
+zpython:S4487"VRemove this unread private attribute '__max_mp' or refactor the code to use its value.(ó¾“Ëÿÿÿÿÿ8Óµ¶¾ª.
+{python:S4487"WRemove this unread private attribute '__atk_low' or refactor the code to use its value.(Êß…äıÿÿÿÿ8·ÿ¶¾ª.
+spython:S4487"URemove this unread private attribute '__magic' or refactor the code to use its value.(ê¼Ó8”«·¾ª.
